@@ -21,7 +21,7 @@ code everyday and start to work through 100 coding problems
 | 02  | Reverse String       | ✔ Done |  27/06/2026
 | 03  | Reverse a string/integer   | ✔ Done |  27/06/2026
 | 04  | Find the largest/smallest in an array | ✔ Done | 28/06/2026 |
-| 05  | Fibonacci sequence (iterative)  | 🔄 In Progress  |  |
+| 05  | Fibonacci sequence (iterative)  | ✔ Done | 28/06/2026 |
 | 06  | Fibonacci sequence (recursive)  | 🔄 In Progress  |  |
 | 07  | Check for prime numbers  |  |  |                                    
 | 08  | Remove duplicates from an array |  |  |                            
