@@ -23,8 +23,8 @@ code everyday and start to work through 100 coding problems
 | 04  | Find the largest/smallest in an array | ✔ Done | 28/06/2026 |
 | 05  | Fibonacci sequence (iterative)  | ✔ Done | 28/06/2026 |
 | 06  | Fibonacci sequence (recursive)  | ✔ Done  | 30/06/2026 |
-| 07  | Check for prime numbers  | 🔄 In Progress |  |                                    
-| 08  | Remove duplicates from an array |  |  |                            
+| 07  | Check for prime numbers  | ✔ Done  | 02/07/206 |                                    
+| 08  | Remove duplicates from an array | 🔄 In Progress |  |                            
 | 09  | Anagram checker   |  |  |                                            
 | 10  | Find missing number in array of 1 to n   |  |  |                    
 | 11  | Two sum (find indices that add to target) |  |  |                  
