@@ -25,8 +25,8 @@ code everyday and start to work through 100 coding problems
 | 06  | Fibonacci sequence (recursive)  | ✔ Done  | 30/06/2026 |
 | 07  | Check for prime numbers  | ✔ Done  | 02/07/206 |                                    
 | 08  | Remove duplicates from an array | ✔ Done | 02/07/2026 |                            
-| 09  | Anagram checker   | 🔄 In Progress |  |                                            
-| 10  | Find missing number in array of 1 to n   |  |  |                    
+| 09  | Anagram checker   | ✔ Done | 5/07/2026 |                                            
+| 10  | Find missing number in array of 1 to n   | 🔄 In Progress |  |                    
 | 11  | Two sum (find indices that add to target) |  |  |                  
 | 12  | Bubblsort  |  |  |                                               
 | 13  | Selection sort |  |  |                                             
