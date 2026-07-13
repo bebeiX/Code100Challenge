@@ -28,7 +28,7 @@ code everyday and start to work through 100 coding problems
 | 09  | Anagram checker   | ✔ Done | 05/07/2026 |                                            
 | 10  | Find missing number in array of 1 to n   |  ✔ Done | 06/07/206 |                    
 | 11  | Two sum (find indices that add to target) |  ✔ Done | 07/07/2026 |                  
-| 12  | Bubblsort  | 🔄 In Progress |  |                                               
+| 12  | Bubblsort  | ✔ Done | 13/07/2026 |                                               
 | 13  | Selection sort |  🔄 In Progress  |  |                                             
 | 14  | Binary search (iterative)   |  |  |                             
 | 15  | Binary search (recursive)   |  |  |                               
