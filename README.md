@@ -29,10 +29,10 @@ code everyday and start to work through 100 coding problems
 | 10  | Find missing number in array of 1 to n   |  ✔ Done | 06/07/206 |                    
 | 11  | Two sum (find indices that add to target) |  ✔ Done | 07/07/2026 |                  
 | 12  | Bubblsort  | ✔ Done | 13/07/2026 |                                               
-| 13  | Selection sort |  🔄 In Progress  |  |                                             
-| 14  | Binary search (iterative)   |  |  |                             
-| 15  | Binary search (recursive)   |  |  |                               
-| 16  | Rotate an array by k positions |  |  |                            
+| 13  | Selection sort |  ✔ Done  | 14/07/2026 |                                             
+| 14  | Binary search (iterative)   | ✔ Done | 15/07/2026 |                             
+| 15  | Binary search (recursive)   | ✔ Done | 15/07/2026 |                               
+| 16  | Rotate an array by k positions | 🔄 In Progress |  |                            
 | 17  | Move zeros to the end of an array |  |  |                         
 | 18  | Find majoirty element (appearing more than n/2 times)  |  |  |      
 | 19  | Valid parentheses (using a stack) |  |  |                         
